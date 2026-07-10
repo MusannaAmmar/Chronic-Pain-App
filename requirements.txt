@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+pymongo
+langchain
+python-multipart
+langgraph-checkpoint-mongodb
+langmem
+pyotp
+passlib
+pyjwt
+apscheduler
+langchain-mistralai
+mistralai
+resend
